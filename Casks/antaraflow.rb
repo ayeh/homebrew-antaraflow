@@ -1,6 +1,6 @@
 cask "antaraflow" do
-  version "0.1.2"
-  sha256 "34fe5a2fd58da9db53296dc69f8f772ed686ff4ee2edae02ed1761b332d94b19"
+  version "0.1.3"
+  sha256 "6993e1168535cc47927f204f74ea0ce83fb9923e910358f0c60dd8317895fef1"
 
   url "https://github.com/ayeh/antaraFlow-releases/releases/download/v#{version}/antaraFlow-#{version}.dmg"
   name "antaraFlow"
